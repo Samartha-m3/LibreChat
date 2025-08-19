@@ -1012,7 +1012,7 @@
   "com_ui_special_var_current_user": "Aktueller Nutzer",
   "com_ui_special_var_iso_datetime": "UTC ISO Datum/Zeit",
   "com_ui_special_variables": "Spezielle Variablen:",
-  "com_ui_special_variables_more_info": "Du kannst spezielle Variablen aus den Dropdown-Menüs auswählen: `{{current_date}}` (heutiges Datum und Wochentag), `{{current_datetime}}` (offizielles Datum und Uhrzeit), `{{utc_iso_datetime}}` (UTC ISO Datum/Zeit) und `{{current_user}}` (dein Benutzername).",
+  "com_ui_special_variables_more_info": "Du kannst spezielle Variablen aus den Dropdown-Menüs auswählen: `{{current_date}}` (heutiges Datum und Wochentag), `{{current_datetime}}` (offizielles Datum und Uhrzeit), `{{iso_datetime}}` (UTC ISO Datum/Zeit) und `{{current_user}}` (dein Benutzername).",
   "com_ui_speech_while_submitting": "Spracheingabe nicht möglich während eine Antwort generiert wird",
   "com_ui_sr_actions_menu": "Aktionsmenü für \"{{0}}\" öffnen",
   "com_ui_stop": "Stopp",

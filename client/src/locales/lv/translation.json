@@ -1015,7 +1015,7 @@
   "com_ui_special_var_current_user": "Pašreizējais lietotājs",
   "com_ui_special_var_iso_datetime": "UTC ISO datums un laiks",
   "com_ui_special_variables": "Īpašie mainīgie:",
-  "com_ui_special_variables_more_info": "Nolaižamajā izvēlnē varat atlasīt īpašos mainīgos:{{current_date}}` (šodienas datums un nedēļas diena), `{{current_datetime}}` (vietējais datums un laiks), `{{utc_iso_datetime}}` (UTC ISO datums/laiks) un `{{current_user}} (jūsu konta nosaukums).",
+  "com_ui_special_variables_more_info": "Nolaižamajā izvēlnē varat atlasīt īpašos mainīgos:{{current_date}}` (šodienas datums un nedēļas diena), `{{current_datetime}}` (vietējais datums un laiks), `{{iso_datetime}}` (UTC ISO datums/laiks) un `{{current_user}} (jūsu konta nosaukums).",
   "com_ui_speech_while_submitting": "Nevar iesniegt runu, kamēr tiek ģenerēta atbilde.",
   "com_ui_sr_actions_menu": "Atvērt darbību izvēlni priekš \"{{0}}\"",
   "com_ui_stop": "Apstāties",

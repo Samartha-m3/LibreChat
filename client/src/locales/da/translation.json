@@ -857,7 +857,7 @@
   "com_ui_special_var_current_user": "Nuværende bruger",
   "com_ui_special_var_iso_datetime": "UTC ISO Datetime",
   "com_ui_special_variables": "Særlige variabler:",
-  "com_ui_special_variables_more_info": "Du kan vælge særlige variabler fra rullemenuen: `{{current_date}}` (dagens dato og ugedag), `{{current_datetime}}` (lokal dato og tid), `{{utc_iso_datetime}}` (UTC ISO datetime), og `{{current_user}}` (dit kontonavn).",
+  "com_ui_special_variables_more_info": "Du kan vælge særlige variabler fra rullemenuen: `{{current_date}}` (dagens dato og ugedag), `{{current_datetime}}` (lokal dato og tid), `{{iso_datetime}}` (UTC ISO datetime), og `{{current_user}}` (dit kontonavn).",
   "com_ui_speech_while_submitting": "Kan ikke indsende tale, mens der genereres et svar",
   "com_ui_sr_actions_menu": "Åbn handlingsmenuen for \"{{0}}\"",
   "com_ui_stop": "Stop",

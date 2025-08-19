@@ -1005,7 +1005,7 @@
   "com_ui_special_var_current_user": "当前用户",
   "com_ui_special_var_iso_datetime": "UTC ISO 日期时间",
   "com_ui_special_variables": "特殊变量：",
-  "com_ui_special_variables_more_info": "您可以从下拉菜单中选择特殊变量：`{{current_date}}`（今天的日期和星期）、`{{current_datetime}}`（本地日期和时间）、`{{utc_iso_datetime}}`（UTC ISO 格式的日期时间）以及`{{current_user}}`（您的账户名称）。",
+  "com_ui_special_variables_more_info": "您可以从下拉菜单中选择特殊变量：`{{current_date}}`（今天的日期和星期）、`{{current_datetime}}`（本地日期和时间）、`{{iso_datetime}}`（UTC ISO 格式的日期时间）以及`{{current_user}}`（您的账户名称）。",
   "com_ui_speech_while_submitting": "正在生成回复时无法提交语音",
   "com_ui_sr_actions_menu": "打开 \"{{0}}\" 的操作菜单",
   "com_ui_stop": "停止",

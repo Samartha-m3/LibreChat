@@ -686,7 +686,7 @@
   "com_ui_special_var_current_datetime": "التاريخ والوقت الآن",
   "com_ui_special_var_current_user": "المستخدم الحالي",
   "com_ui_special_variables": "المتغيرات الخاصة:",
-  "com_ui_special_variables_more_info": "يمكنك اختيار متغيّر خاص من القائمة المنسدلة أدناه: {{current_date}}` (today's date and day of week), `{{current_datetime}}` (local date and time), `{{utc_iso_datetime}}` (UTC ISO datetime), و `{{current_user}}` (your account name).",
+  "com_ui_special_variables_more_info": "يمكنك اختيار متغيّر خاص من القائمة المنسدلة أدناه: {{current_date}}` (today's date and day of week), `{{current_datetime}}` (local date and time), `{{iso_datetime}}` (UTC ISO datetime), و `{{current_user}}` (your account name).",
   "com_ui_speech_while_submitting": "لا يمكن إرسال الكلام أثناء إنشاء الرد",
   "com_ui_stop": "توقف",
   "com_ui_storage": "التخزين",

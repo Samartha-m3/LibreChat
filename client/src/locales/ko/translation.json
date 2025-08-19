@@ -1003,7 +1003,7 @@
   "com_ui_special_var_current_user": "현재 사용자",
   "com_ui_special_var_iso_datetime": "UTC ISO 날짜 및 시간",
   "com_ui_special_variables": "특수 변수:",
-  "com_ui_special_variables_more_info": "드롭다운에서 선택할 수 있는 특수 변수: `{{current_date}}` (오늘의 날짜와 요일), `{{current_datetime}}` (현재 로컬 날짜와 시간), `{{utc_iso_datetime}}` (UTC ISO 날짜 및 시간), `{{current_user}}` (사용자 이름).",
+  "com_ui_special_variables_more_info": "드롭다운에서 선택할 수 있는 특수 변수: `{{current_date}}` (오늘의 날짜와 요일), `{{current_datetime}}` (현재 로컬 날짜와 시간), `{{iso_datetime}}` (UTC ISO 날짜 및 시간), `{{current_user}}` (사용자 이름).",
   "com_ui_speech_while_submitting": "응답 생성 중에는 음성을 전송할 수 없습니다",
   "com_ui_sr_actions_menu": "\"{{0}}\"의 행동 메뉴 열기",
   "com_ui_stop": "중지",

@@ -827,7 +827,7 @@
   "com_ui_special_var_current_user": "Usuari actual",
   "com_ui_special_var_iso_datetime": "Data i hora ISO UTC",
   "com_ui_special_variables": "Variables especials:",
-  "com_ui_special_variables_more_info": "Pots seleccionar variables especials al desplegable: `{{current_date}}` (data i dia de la setmana d'avui), `{{current_datetime}}` (data i hora locals), `{{utc_iso_datetime}}` (data i hora ISO UTC), i `{{current_user}}` (nom del teu compte).",
+  "com_ui_special_variables_more_info": "Pots seleccionar variables especials al desplegable: `{{current_date}}` (data i dia de la setmana d'avui), `{{current_datetime}}` (data i hora locals), `{{iso_datetime}}` (data i hora ISO UTC), i `{{current_user}}` (nom del teu compte).",
   "com_ui_speech_while_submitting": "No es pot enviar veu mentre s'està generant una resposta",
   "com_ui_sr_actions_menu": "Obre el menú d'accions per a \"{{0}}\"",
   "com_ui_stop": "Atura",

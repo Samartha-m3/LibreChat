@@ -879,7 +879,7 @@
   "com_ui_special_var_current_user": "Praegune kasutaja",
   "com_ui_special_var_iso_datetime": "UTC ISO kuupäev ja kellaaeg",
   "com_ui_special_variables": "Erilised muutujad:",
-  "com_ui_special_variables_more_info": "Saad rippmenüüst valida erilisi muutujaid: `{{current_date}}` (tänane kuupäev ja nädalapäev), `{{current_datetime}}` (kohalik kuupäev ja kellaaeg), `{{utc_iso_datetime}}` (UTC ISO kuupäev ja kellaaeg) ja `{{current_user}}` (sinu kasutaja nimi).",
+  "com_ui_special_variables_more_info": "Saad rippmenüüst valida erilisi muutujaid: `{{current_date}}` (tänane kuupäev ja nädalapäev), `{{current_datetime}}` (kohalik kuupäev ja kellaaeg), `{{iso_datetime}}` (UTC ISO kuupäev ja kellaaeg) ja `{{current_user}}` (sinu kasutaja nimi).",
   "com_ui_speech_while_submitting": "Kõnet ei saa esitada, kui vastust genereeritakse",
   "com_ui_sr_actions_menu": "Ava tegevuste menüü \"{{0}}\" jaoks",
   "com_ui_stop": "Peata",

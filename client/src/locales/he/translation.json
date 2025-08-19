@@ -977,7 +977,7 @@
   "com_ui_special_var_current_user": "משתמש נוכחי",
   "com_ui_special_var_iso_datetime": "תאריך ושעה ISO UTC",
   "com_ui_special_variables": "משתנים מיוחדים:",
-  "com_ui_special_variables_more_info": "ניתן לבחור משתנים מיוחדים מהתפריט הנפתח: `{{current_date}}` (תאריך ויום בשבוע של היום), `{{current_datetime}}` (תאריך ושעה מקומיים), `{{utc_iso_datetime}}` (תאריך ושעה UTC ISO) ו-`{{current_user}}` (שם החשבון שלך).",
+  "com_ui_special_variables_more_info": "ניתן לבחור משתנים מיוחדים מהתפריט הנפתח: `{{current_date}}` (תאריך ויום בשבוע של היום), `{{current_datetime}}` (תאריך ושעה מקומיים), `{{iso_datetime}}` (תאריך ושעה UTC ISO) ו-`{{current_user}}` (שם החשבון שלך).",
   "com_ui_speech_while_submitting": "לא ניתן לשלוח אודיו בזמן שנוצרת תגובה",
   "com_ui_sr_actions_menu": "פתח את תפריט הפעולות עבור \"{{0}}\"",
   "com_ui_stop": "עצור",
